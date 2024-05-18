@@ -1,0 +1,21 @@
+﻿  raudio.c
+  rcore.c
+C:\Users\yassi\Desktop\brick\raylib-master\src\external\jar_xm.h(242,1): warning C4005: 'DEBUG': macro redefinition
+  (compiling source file 'src/raudio.c')
+  C:\Users\yassi\Desktop\brick\raylib-master\src\external\jar_xm.h(242,1):
+  'DEBUG' previously declared on the command line
+  
+C:\Users\yassi\Desktop\brick\raylib-master\src\rlgl.h(3948,84): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  (compiling source file 'src/rcore.c')
+  
+C:\Users\yassi\Desktop\brick\raylib-master\src\rcore.c(859,42): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+C:\Users\yassi\Desktop\brick\raylib-master\src\rtext.c(2245,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\yassi\Desktop\brick\raylib-master\src\rtext.c(2245,82): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\yassi\Desktop\brick\bin\Debug\raylib.lib
